@@ -47,23 +47,41 @@
 
 ## 6. 웹사이트 이미지
 
-* 기업정보 CRUD
+##### 기업정보 CRUD
 ![crud](https://user-images.githubusercontent.com/70192334/102842093-859ea480-4449-11eb-9fb2-17f0454619ce.png)
 
-* 기업 공고 검색
+
+
+
+##### 기업 공고 검색
 ![search](https://user-images.githubusercontent.com/70192334/102842203-c72f4f80-4449-11eb-9d93-e59a33b102f9.png)
 
-* 기업 공고 조회
+
+
+
+##### 기업 공고 조회
 ![company_info](https://user-images.githubusercontent.com/70192334/102842226-d6ae9880-4449-11eb-91da-8391f80558c8.png)
 
-* 달력 알람기능
+
+
+
+##### 달력 알람기능
 ![notification](https://user-images.githubusercontent.com/70192334/102842254-e8903b80-4449-11eb-86ae-2b8c0da01500.png)
 
-* 채팅 기능
+
+
+
+##### 채팅 기능
 ![chat](https://user-images.githubusercontent.com/70192334/102842264-ee861c80-4449-11eb-9da3-fe64bdba84ed.png)
 
-*뉴스 크롤링
+
+
+
+##### 뉴스 크롤링
 ![news](https://user-images.githubusercontent.com/70192334/102842269-f1810d00-4449-11eb-8535-97895e10c05c.png)
+
+
+
 
 *결제 기능
 ![payment](https://user-images.githubusercontent.com/70192334/102842280-f3e36700-4449-11eb-96f3-0f0930cf1e9c.png)
